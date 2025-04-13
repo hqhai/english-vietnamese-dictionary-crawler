@@ -1,0 +1,14 @@
+{
+  "name": "dictionary-crawler",
+  "version": "1.0.0",
+  "description": "Crawler dữ liệu từ điển từ API TracâU",
+  "main": "dictionary_crawler.js",
+  "scripts": {
+    "start": "node dictionary_crawler.js"
+  },
+  "dependencies": {
+    "node-fetch": "^2.7.0"
+  },
+  "author": "",
+  "license": "ISC"
+}

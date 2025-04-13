@@ -1,0 +1,244 @@
+{
+  "apple": {
+    "word": "apple",
+    "pronunciation": "",
+    "parts_of_speech": [],
+    "grammar": {
+      "type": "",
+      "collocations": [
+        "1) cooking; eating apples ",
+        "2) a baked; green; sour apple "
+      ]
+    },
+    "specialized": {
+      "economics": [],
+      "technical": []
+    },
+    "synonyms": [],
+    "english_definition": {
+      "oxford": {
+        "noun": [
+          "the rounded fruit of a tree of the rose family, with green or red skin and crisp flesh.",
+          "the tree which bears apples. [Genus <i>Malus</i>: numerous cultivated forms.]",
+          "used in names of similar unrelated fruits, e.g. <cclass><b>custard apple</b>. </cclass>"
+        ],
+        "phrases": [
+          {
+            "phrase": "the apple of one's eye",
+            "meaning": "a person of whom one is extremely fond and proud. [orig. denoting the pupil of the eye, extended as a symbol of something cherished.] "
+          },
+          {
+            "phrase": "upset the apple cart",
+            "meaning": "spoil a plan. "
+          }
+        ],
+        "derivatives": [],
+        "origin": ""
+      },
+      "wordnet": {
+        "noun": [
+          {
+            "definition": "1. fruit with red or yellow or green skin and sweet to tart crisp whitish flesh"
+          },
+          {
+            "definition": "2. native Eurasian tree widely cultivated in many varieties for its firm rounded edible fruits •"
+          }
+        ]
+      }
+    }
+  },
+  "banana": {
+    "word": "banana",
+    "pronunciation": "",
+    "parts_of_speech": [],
+    "grammar": {
+      "type": "",
+      "collocations": [
+        "1)to peel a banana ",
+        "2) a green; ripe; rotten banana"
+      ]
+    },
+    "specialized": {
+      "economics": [],
+      "technical": []
+    },
+    "synonyms": [],
+    "english_definition": {
+      "oxford": {
+        "noun": [
+          "a long curved fruit which grows in clusters and has soft pulpy flesh and yellow skin when ripe.",
+          "(also <cclass><b>banana plant</b> or <cclass><b>banana tree</b>) the tropical and subtropical palm-like plant which bears bananas. [Genus <i>Musa</i>: several species.] </cclass></cclass>"
+        ],
+        "phrases": [],
+        "derivatives": [],
+        "origin": ""
+      },
+      "wordnet": {
+        "noun": [
+          {
+            "definition": "1. any of several tropical and subtropical treelike herbs of the genus Musa having a terminal crown of large entire leaves and usually bearing hanging clusters of elongated fruits"
+          },
+          {
+            "definition": "2. elongated crescent-shaped yellow fruit with soft sweet flesh"
+          }
+        ]
+      }
+    }
+  },
+  "orange": {
+    "word": "orange",
+    "pronunciation": "",
+    "parts_of_speech": [],
+    "grammar": {
+      "type": "",
+      "collocations": [
+        "1) a mandarin; navel orange "
+      ]
+    },
+    "specialized": {
+      "economics": [],
+      "technical": []
+    },
+    "synonyms": [],
+    "english_definition": {
+      "oxford": {
+        "noun": [
+          "a large round citrus fruit with a tough bright reddish-yellow rind.",
+          "the evergreen tree which produces oranges, native to warm regions of south and SE Asia. [<i>Citrus sinensis</i> and related species.]",
+          "a bright reddish-yellow colour."
+        ],
+        "phrases": [],
+        "derivatives": [],
+        "origin": ""
+      },
+      "wordnet": {
+        "noun": [
+          {
+            "definition": "1. round yellow to orange fruit of any of several citrus trees"
+          },
+          {
+            "definition": "2. orange color or pigment; any of a range of colors between red and yellow"
+          },
+          {
+            "definition": "3. any citrus tree bearing oranges"
+          },
+          {
+            "definition": "4. any pigment producing the orange color"
+          }
+        ]
+      }
+    }
+  },
+  "computer": {
+    "word": "computer",
+    "pronunciation": "",
+    "parts_of_speech": [],
+    "grammar": {
+      "type": "",
+      "collocations": [
+        "1) to operate, use a computer; to turn on; turn off a computer ",
+        "2) to program a computer ",
+        "3) an analog; digital; electronic; general-purpose; home; mainframe computer; microcomputer; minicomputer; parallel; personal; serial computer ",
+        "4) the computer is down ('the computer is not functioning') ",
+        "5) the computer is up ('the computer is functioning') ",
+        "7) on a computer (to run a program on a computer)"
+      ]
+    },
+    "specialized": {
+      "economics": [],
+      "technical": []
+    },
+    "synonyms": [],
+    "english_definition": {
+      "oxford": {
+        "noun": [],
+        "phrases": [],
+        "derivatives": [],
+        "origin": ""
+      },
+      "wordnet": {
+        "noun": [
+          {
+            "definition": "1. a machine for performing calculations automatically"
+          },
+          {
+            "definition": "2. an expert at calculation (or at operating calculating machines)"
+          }
+        ]
+      }
+    }
+  },
+  "love": {
+    "word": "love",
+    "pronunciation": "",
+    "parts_of_speech": [],
+    "grammar": {
+      "type": "",
+      "collocations": [
+        "1) to inspire love for ",
+        "2) blind; deep, profound, sincere, true; platonic; undying; unrequited love ",
+        "3) love for, of (love for one's country; to have no love for smb.) ",
+        "4) for, out of love (to do smt. for love) ",
+        "5) in love with (to fall in love with smb.; to be hopelessly in love with smb.; head over heels in love with smb.) ",
+        "6) to give; send one's love (give them our love) ",
+        "7) to make love ('to pet'); ('to have intercourse') ",
+        "8) free love ",
+        "1) to love blindly; dearly; deeply; passionately; really, very much (I would dearly love to see them again) "
+      ]
+    },
+    "specialized": {
+      "economics": [],
+      "technical": []
+    },
+    "synonyms": [],
+    "english_definition": {
+      "oxford": {
+        "noun": [
+          "an intense feeling of deep affection.",
+          "a great interest and pleasure in something.",
+          "a person or thing that one loves.",
+          "(in tennis, squash, etc.) a score of zero. [appar. from the phr. <i>play for love</i> (i.e. the love of the game, not for money).]",
+          "have sexual intercourse.",
+          "(<cclass><b>make love to</b>) <cclass>dated pay amorous attention to. </cclass></cclass>"
+        ],
+        "phrases": [],
+        "derivatives": [],
+        "origin": ""
+      },
+      "wordnet": {
+        "noun": [
+          {
+            "definition": "1. a strong positive emotion of regard and affection"
+          },
+          {
+            "definition": "2. any object of warm affection or devotion"
+          },
+          {
+            "definition": "3. a beloved person; used as terms of endearment"
+          },
+          {
+            "definition": "4. a deep feeling of sexual desire and attraction"
+          },
+          {
+            "definition": "5. a score of zero in tennis or squash- it was 40 love"
+          },
+          {
+            "definition": "6. sexual activities (often including sexual intercourse)"
+          },
+          {
+            "definition": "1. have a great affection or liking for"
+          },
+          {
+            "definition": "2. get pleasure from"
+          },
+          {
+            "definition": "3. be enamored or in love with"
+          },
+          {
+            "definition": "4. have sexual intercourse with- This student sleeps with everyone in her dorm"
+          }
+        ]
+      }
+    }
+  }
+}

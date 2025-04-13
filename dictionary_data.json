@@ -1,0 +1,618 @@
+{
+  "programmer": {
+    "word": "programmer",
+    "phonetic": "'prougræmə",
+    "definition": {
+      "type": "*",
+      "basic_meanings": [],
+      "phrases": [
+        {
+          "phrase": "Computer programmer",
+          "meaning": "Người lập trình máy tính"
+        }
+      ]
+    },
+    "terms": {
+      "economic": [
+        {
+          "term": "chief programmer",
+          "meaning": "lập trình viên chính"
+        },
+        {
+          "term": "computer programmer",
+          "meaning": "lập trình viên máy tính"
+        },
+        {
+          "term": "software programmer",
+          "meaning": "lập trình viên phần mềm"
+        },
+        {
+          "term": "system programmer",
+          "meaning": "lập trình viên hệ thống"
+        },
+        {
+          "term": "systems programmer (sysprog)",
+          "meaning": "lập trình viên hệ thống"
+        }
+      ],
+      "technical": []
+    },
+    "examples": [
+      {
+        "en": "A computer programmer.",
+        "vi": "Người thảo chương, người lập trình (viết chương trình) của máy điện toán."
+      },
+      {
+        "en": "Are you a programmer?",
+        "vi": "Bạn có là người lập trình không?"
+      },
+      {
+        "en": "I'm a computer programmer.",
+        "vi": "Tôi là lập trình viên máy tính."
+      },
+      {
+        "en": "I'm a programmer.",
+        "vi": "Tôi là lập trình viên."
+      },
+      {
+        "en": "I 'm a programmer.",
+        "vi": "Tôi là lập trình viên."
+      },
+      {
+        "en": "Is Hoa not a programmer  ?",
+        "vi": "Hoa không phải là lập trình viên hay sao?"
+      },
+      {
+        "en": "He is a computer programmer.",
+        "vi": "Anh ấy là một lập trình viên vi tính."
+      },
+      {
+        "en": "I 'm a computer programmer.",
+        "vi": "Tôi là lập trình viên máy tính."
+      },
+      {
+        "en": "It depends on the programmer.",
+        "vi": "Nó phụ thuộc vào người lập trình."
+      },
+      {
+        "en": "Peter is a computer programmer.",
+        "vi": "Peter là một người lập trình máy tính."
+      },
+      {
+        "en": "I want to become a good programmer.",
+        "vi": "Anh muốn trở thành một lập trình viên giỏi."
+      },
+      {
+        "en": "What skills should a programmer have nowadays?",
+        "vi": "Những kỹ năng gì mà một lập trình viên ngày nay nên có?"
+      },
+      {
+        "en": "You're recruiting a programmer, aren't you?",
+        "vi": "Bạn đang tuyển một lập trình viên phải không?"
+      },
+      {
+        "en": "We like seeing new programmer, not repeats.",
+        "vi": "Chúng tôi muốn xem những chương trình mới, không phải những chương trình cứ lặp đi lặp lại."
+      },
+      {
+        "en": "I 'm a programmer in this company.",
+        "vi": "Tôi là môt lập trình viên trong công ty này."
+      },
+      {
+        "en": "I want to become a computer programmer.",
+        "vi": "Tôi muốn trở thành một lập trình viên máy tính."
+      },
+      {
+        "en": "I'm a programmer in this company.",
+        "vi": "Tôi là môt lập trình viên trong công ty này."
+      },
+      {
+        "en": "It was a heart-warming programmer.",
+        "vi": "Đó là chương trình làm ấm lòng khán giả."
+      },
+      {
+        "en": "I don't want to be a programmer.",
+        "vi": "Tôi không muốn trở thành lập trình viên."
+      }
+    ]
+  },
+  "developer": {
+    "word": "developer",
+    "phonetic": "di'veləpə",
+    "definition": {
+      "type": "danh từ",
+      "basic_meanings": [],
+      "phrases": [
+        {
+          "phrase": "Microsoft Sets Developer Strategy for Windows Mobile Apps",
+          "meaning": "Microsoft Đặt ra Chiến lược Phát triển cho Ứng dụng Windows Mobile"
+        },
+        {
+          "phrase": "Source code is not available to the application developer, and",
+          "meaning": "Mã nguồn không sẵn có cho người phát triển ứng dụng, và"
+        },
+        {
+          "phrase": "Practicing software developer in industry must have to deal with:",
+          "meaning": "Người phát triển phần mềm thực hành trong công nghiệp phải giải quyết:"
+        },
+        {
+          "phrase": "Party A\" is licensed to build development master planer and developer of",
+          "meaning": "\"Bên A\"được cấp giấy phép để lập qui hoạch tổng thể và triển khai dự án phát triển chung cư A"
+        }
+      ]
+    },
+    "terms": {
+      "economic": [
+        {
+          "term": "software developer",
+          "meaning": "người phát triển phần mềm"
+        },
+        {
+          "term": "software developer",
+          "meaning": "người phát triển phần mềm"
+        },
+        {
+          "term": "compensating developer",
+          "meaning": "thuốc hiện ảnh bù màu"
+        }
+      ],
+      "technical": []
+    },
+    "examples": [
+      {
+        "en": "Software developer.",
+        "vi": "Người phát triển phần mềm."
+      },
+      {
+        "en": "6. Apple Developer Program",
+        "vi": "6. Apple Developer Program"
+      },
+      {
+        "en": "\"I was a late developer,\" he says.",
+        "vi": "\"Tôi từng là một người chậm phát triển,\" anh ta nói."
+      },
+      {
+        "en": "A software developer needs to constantly update his skills.",
+        "vi": "Một nhà phát triển phần mềm cần phải liên tục cập nhật các kỹ năng của mình."
+      },
+      {
+        "en": "He set up in business as a property developer.",
+        "vi": "Ông ấy khai trương doanh nghiệp như một người triển khai bất động sản."
+      },
+      {
+        "en": "The loan is guaranteed by a property developer.",
+        "vi": "Khoản vay này được đảm bảo bởi một nhà phát triển bất động sản."
+      },
+      {
+        "en": "A good programmer may NOT be a good software developer.",
+        "vi": "Người lập trình tốt có thể KHÔNG phải là người phát triển phần mềm tốt."
+      },
+      {
+        "en": "Document all requirements after an agreement between user and developer.",
+        "vi": "Làm tài liệu mọi yêu cầu sau thoả thuận giữa người dùng và người phát triển."
+      },
+      {
+        "en": "As developer, you are the scapegoat for everything.",
+        "vi": "Là người phát triển, bạn là cái bung xung cho mọi thứ."
+      },
+      {
+        "en": "The housing development plan is changed by the developer.",
+        "vi": "Kế hoạch phát triển nhà ở được nhà phát triển thay đổi."
+      },
+      {
+        "en": "The $2.07 billion project was funded by a Singaporean developer.",
+        "vi": "Dự án trị giá 2,07 tỷ USD được tài trợ bởi một nhà phát triển Singapore."
+      },
+      {
+        "en": "I really wish I were a software developer right now.",
+        "vi": "Tôi thực sự muốn tôi là chuyên viên thiết kế phần mềm ngay bây giờ."
+      },
+      {
+        "en": "The developer will offer another ten percent mortgage to purchasers.",
+        "vi": "Nhà đầu tư sẽ cấp khoảng vay 10% có thuế chấp cho người mua."
+      },
+      {
+        "en": "The developer will provide air conditioner for all rooms.",
+        "vi": "Nhà đầu tư sẽ trang bị máy lạnh cho tất cả các phòng."
+      },
+      {
+        "en": "Today, we are looking for people with Web development skills, Java developer, Dot.Net developer, Security Specialist, Database administration.”",
+        "vi": "Ngày nay, chúng tôi đang tìm người có kỹ năng phát triển Web, người phát triển Java, người phát triển Dot.Net, chuyên viên an ninh, quản trị cơ sở dữ liệu.”"
+      },
+      {
+        "en": "Since the developer creates the code, there is nobody else better to test the code than the developer because he understands his own code.",
+        "vi": "Vì người phát triển tạo ra mã, không có ai khác tốt hơn người phát triển để kiểm thử mã này bởi vì người đó hiểu mã riêng của mình."
+      }
+    ]
+  },
+  "engineer": {
+    "word": "engineer",
+    "phonetic": ",endʒi'niə",
+    "definition": {
+      "type": "danh từ",
+      "basic_meanings": [
+        "kỹ sư"
+      ],
+      "phrases": [
+        {
+          "phrase": "Chemical engineer",
+          "meaning": "Kỹ sư hoá"
+        },
+        {
+          "phrase": "Consulting engineer",
+          "meaning": "Kỹ sư cố vấn"
+        },
+        {
+          "phrase": "Metallurgic engineer",
+          "meaning": "Kỹ sư luyện kim"
+        },
+        {
+          "phrase": "Chief engineer",
+          "meaning": "Kỹ sư trưởng"
+        },
+        {
+          "phrase": "traffic engineer",
+          "meaning": "kĩ sư giao thông"
+        },
+        {
+          "phrase": "Electrical engineer",
+          "meaning": "Kỹ sư điện"
+        },
+        {
+          "phrase": "Service engineer",
+          "meaning": "Kỹ sư bảo dưỡng"
+        },
+        {
+          "phrase": "The engineer",
+          "meaning": "Nhà tư vấn"
+        },
+        {
+          "phrase": "Water engineer",
+          "meaning": "Kỹ sư thủy văn"
+        },
+        {
+          "phrase": "Civil engineer",
+          "meaning": "Kỹ sư xây dựng"
+        },
+        {
+          "phrase": "Mechanical engineer",
+          "meaning": "Kỹ sư cơ khí"
+        },
+        {
+          "phrase": "Mining engineer",
+          "meaning": "Kỹ sư mỏ"
+        },
+        {
+          "phrase": "Railway engineer",
+          "meaning": "Kỹ sư ngành đường sắt"
+        },
+        {
+          "phrase": "Chartered engineer, librarian, surveyor",
+          "meaning": "Kỹ sư, thủ thư, viên thanh tra đủ tư cách hành nghề"
+        }
+      ]
+    },
+    "terms": {
+      "economic": [
+        {
+          "term": "civil engineer",
+          "meaning": "kỹ sư công chánh"
+        },
+        {
+          "term": "consultant engineer",
+          "meaning": "kỹ sư cố vấn"
+        },
+        {
+          "term": "cost engineer",
+          "meaning": "kỹ sư phí tổn"
+        },
+        {
+          "term": "food engineer",
+          "meaning": "kỹ sư thực thẩm"
+        },
+        {
+          "term": "management engineer",
+          "meaning": "kỹ sư quản lý"
+        },
+        {
+          "term": "marine engineer",
+          "meaning": "kỹ sư đóng tầu"
+        },
+        {
+          "term": "marine engineer",
+          "meaning": "kỹ sư đóng tàu"
+        },
+        {
+          "term": "mechanical engineer",
+          "meaning": "kỹ sư cơ khí"
+        },
+        {
+          "term": "methods engineer",
+          "meaning": "kỹ sư phương pháp"
+        },
+        {
+          "term": "patent engineer",
+          "meaning": "kỹ sư cố vấn về quyền sở hữu công nghiệp"
+        },
+        {
+          "term": "process engineer",
+          "meaning": "kỹ sư quy trình công nghệ"
+        },
+        {
+          "term": "product engineer",
+          "meaning": "kỹ sư sản phẩm"
+        },
+        {
+          "term": "project engineer",
+          "meaning": "kỹ sư (chủ quản) dự án công trình"
+        }
+      ],
+      "technical": []
+    },
+    "examples": [
+      {
+        "en": "Computer engineer.",
+        "vi": "Kỹ sư tin học."
+      },
+      {
+        "en": "I'm a construction engineer.",
+        "vi": "Tôi đang là kỹ sư xây dựng."
+      },
+      {
+        "en": "I'm not an engineer.",
+        "vi": "Tôi không phải là kỹ sư."
+      },
+      {
+        "en": "I'm a chemical engineer.",
+        "vi": "Tôi là kỹ sư hóa học."
+      },
+      {
+        "en": "3. Requirements Engineer",
+        "vi": "3. Kỹ sư yêu cầu"
+      }
+    ]
+  },
+  "designer": {
+    "word": "designer",
+    "phonetic": "di'zainə",
+    "definition": {
+      "type": "danh từ",
+      "basic_meanings": [],
+      "phrases": [
+        {
+          "phrase": "Im a fashion designer",
+          "meaning": "tôi là một nhà thiết kế thời trang"
+        }
+      ]
+    },
+    "terms": {
+      "economic": [],
+      "technical": []
+    },
+    "examples": [
+      {
+        "en": "Fashion designer.",
+        "vi": "Nhà thiết kế thời trang."
+      },
+      {
+        "en": "Database designer.",
+        "vi": "Dùng database designer."
+      },
+      {
+        "en": "Query designer.",
+        "vi": "Bộ thiết kế yêu cầu."
+      },
+      {
+        "en": "Advanced report designer techniques.",
+        "vi": "Những kỹ thuật tân tiến dùng report designer."
+      },
+      {
+        "en": "Table designer window.",
+        "vi": "Cửa sổ table designer."
+      },
+      {
+        "en": "Using the table designer.",
+        "vi": "Sử dụng table designer."
+      },
+      {
+        "en": "The database designer window.",
+        "vi": "Cửa sổ database designer."
+      },
+      {
+        "en": "Second stop-report designer.",
+        "vi": "Điểm dừng chân thứ hai - bộ thiết kế báo biểu report designer."
+      },
+      {
+        "en": "Using the form designer.",
+        "vi": "Sử dụng form designer."
+      },
+      {
+        "en": "He's an industrial designer.",
+        "vi": "Anh ấy là nhà thiết kế công nghiệp."
+      },
+      {
+        "en": "He is a designer.",
+        "vi": "Anh ấy là nhà thiết kế."
+      },
+      {
+        "en": "He is the designer.",
+        "vi": "Ông ấy là người thiết kế."
+      },
+      {
+        "en": "He's a future designer.",
+        "vi": "Ông ta là nhà thiết kế tương lai."
+      },
+      {
+        "en": "The table designer window.",
+        "vi": "Cửa sổ table designer."
+      },
+      {
+        "en": "Table designer window indexes.",
+        "vi": "Cửa sổ của index tab trong cửa sổ table designer."
+      },
+      {
+        "en": "The query designer.",
+        "vi": "Query designer."
+      },
+      {
+        "en": "The query designer connection.",
+        "vi": "Kết nối với query designer."
+      },
+      {
+        "en": "These are designer sandwiches.",
+        "vi": "Chúng là những lát bánh mì đắt tiền."
+      },
+      {
+        "en": "Database designer window.",
+        "vi": "Cửa sổ database designer."
+      }
+    ]
+  },
+  "manager": {
+    "word": "manager",
+    "phonetic": "'mænidʒə",
+    "definition": {
+      "type": "danh từ",
+      "basic_meanings": [
+        "giám đốc"
+      ],
+      "phrases": [
+        {
+          "phrase": "manager business",
+          "meaning": "công việc quản lý"
+        },
+        {
+          "phrase": "site manager",
+          "meaning": "Giám đốc công trường"
+        },
+        {
+          "phrase": "manager image",
+          "meaning": "quan lý hình ảnh"
+        },
+        {
+          "phrase": "manager directorx",
+          "meaning": "Giám đốc quản lý"
+        },
+        {
+          "phrase": "Fund Manager",
+          "meaning": "Công ty quản lý"
+        },
+        {
+          "phrase": "Assistant manager",
+          "meaning": "Phó giám đốc"
+        },
+        {
+          "phrase": "Reconciliation Manager",
+          "meaning": "Trưởng phòng đối soát"
+        },
+        {
+          "phrase": "Unit manager",
+          "meaning": "giám đốc đơn vị"
+        },
+        {
+          "phrase": "Sales Manager",
+          "meaning": "Trưởng phòng kinh doanh"
+        },
+        {
+          "phrase": "Bank manager",
+          "meaning": "Giám đốc ngân hàng"
+        },
+        {
+          "phrase": "general manager",
+          "meaning": "tổng giám đốc"
+        },
+        {
+          "phrase": "Plantation manager",
+          "meaning": "Người quản lý đồn điền"
+        },
+        {
+          "phrase": "environment manager",
+          "meaning": "nhà quản lý môi trường"
+        },
+        {
+          "phrase": "Purchasing manager",
+          "meaning": "trưởng phòng mua hàng"
+        },
+        {
+          "phrase": "service manager",
+          "meaning": "quản lý dịch vụ"
+        },
+        {
+          "phrase": "Personnel manager",
+          "meaning": "Người quản lý nhân sự"
+        },
+        {
+          "phrase": "a business - like manager",
+          "meaning": "1 nhà quản lý thành thạo"
+        }
+      ]
+    },
+    "terms": {
+      "economic": [
+        {
+          "term": "account manager",
+          "meaning": "giám đốc nghiệp vụ (quảng cáo)"
+        },
+        {
+          "term": "acting manager",
+          "meaning": "quyền giám đốc"
+        },
+        {
+          "term": "advertising manager",
+          "meaning": "giám đốc quảng cáo"
+        },
+        {
+          "term": "appoint sb manager (to...)",
+          "meaning": "bổ nhiệm ai làm giám đốc"
+        },
+        {
+          "term": "area manager",
+          "meaning": "giám đốc phân khu"
+        },
+        {
+          "term": "area manager",
+          "meaning": "giám đốc khu vực"
+        },
+        {
+          "term": "area sales manager",
+          "meaning": "giám đốc bán hàng khu vực"
+        },
+        {
+          "term": "assistant manager",
+          "meaning": "trợ lý giám đốc"
+        },
+        {
+          "term": "bank manager",
+          "meaning": "giám đốc ngân hàng"
+        },
+        {
+          "term": "branch manager",
+          "meaning": "giám đốc chi nhánh"
+        },
+        {
+          "term": "brand manager",
+          "meaning": "giám đốc nhãn hiệu"
+        },
+        {
+          "term": "business manager",
+          "meaning": "giám đốc doanh nghiệp"
+        },
+        {
+          "term": "combination export manager",
+          "meaning": "giám đốc phòng xuất khẩu liên hợp"
+        }
+      ],
+      "technical": []
+    },
+    "examples": [
+      {
+        "en": "Window manager.",
+        "vi": "Trình quản lý cửa sổ."
+      },
+      {
+        "en": "Project manager.",
+        "vi": "Dùng project manager."
+      }
+    ]
+  }
+}
